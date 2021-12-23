@@ -6,7 +6,7 @@ export const stripe = new Stripe(
     {
         apiVersion:"2020-08-27",
         appInfo:{
-            name:"Igname",
+            name:"Ignews",
             version:'0.1.0'
         }
     }
